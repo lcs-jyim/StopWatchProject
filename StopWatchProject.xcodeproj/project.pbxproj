@@ -14,6 +14,7 @@
 		BF09BA922AF45E92009D176D /* StopWatchProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF09BA912AF45E92009D176D /* StopWatchProjectTests.swift */; };
 		BF09BA9C2AF45E92009D176D /* StopWatchProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF09BA9B2AF45E92009D176D /* StopWatchProjectUITests.swift */; };
 		BF09BA9E2AF45E92009D176D /* StopWatchProjectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF09BA9D2AF45E92009D176D /* StopWatchProjectUITestsLaunchTests.swift */; };
+		BF09BAAD2AF46F8F009D176D /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF09BAAC2AF46F8F009D176D /* ButtonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		BF09BA972AF45E92009D176D /* StopWatchProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StopWatchProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF09BA9B2AF45E92009D176D /* StopWatchProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StopWatchProjectUITests.swift; sourceTree = "<group>"; };
 		BF09BA9D2AF45E92009D176D /* StopWatchProjectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StopWatchProjectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BF09BAAC2AF46F8F009D176D /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				BF09BA822AF45E91009D176D /* ContentView.swift */,
 				BF09BA842AF45E92009D176D /* Assets.xcassets */,
 				BF09BA862AF45E92009D176D /* Preview Content */,
+				BF09BAAC2AF46F8F009D176D /* ButtonView.swift */,
 			);
 			path = StopWatchProject;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				BF09BA832AF45E91009D176D /* ContentView.swift in Sources */,
 				BF09BA812AF45E91009D176D /* StopWatchProjectApp.swift in Sources */,
+				BF09BAAD2AF46F8F009D176D /* ButtonView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
